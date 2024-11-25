@@ -3,7 +3,7 @@
     "example": 
     [
         {
-            "question": "ÈçÍ¼,ÒÑÖªAB¡ÎCD,CD¡ÎEF,AB=DE=EF=CF=2,CD=4,AD=BC=\sqrt{10},AE=2*\sqrt{3},MÎªCDµÄÖÐµã.Çó¶þÃæ½ÇA-EM-BµÄÕýÏÒÖµ.",
+            "question": "å¦‚å›¾,å·²çŸ¥ABâˆ¥CD,CDâˆ¥EF,AB=DE=EF=CF=2,CD=4,AD=BC=\sqrt{10},AE=2*\sqrt{3},Mä¸ºCDçš„ä¸­ç‚¹.æ±‚äºŒé¢è§’A-EM-Bçš„æ­£å¼¦å€¼.",
             "image": 
             [
                 "/img/2024_Math_jia_19.png"
@@ -11,7 +11,7 @@
             "answer": "4*\sqrt{3}/13"
         },
         {
-            "question": "ÈçÍ¼,ËÄÀâ×¶P-ABCDÖÐ,PA¡Íµ×ÃæABCD,PA=AC=2,BC=1, AB=\sqrt{3}.ÈôAD¡ÍDC,ÇÒ¶þÃæ½ÇA-CP-DµÄÕýÏÒÖµÎª\frac{\sqrt{42}}{7},ÇóAD.",
+            "question": "å¦‚å›¾,å››æ£±é”¥P-ABCDä¸­,PAâŠ¥åº•é¢ABCD,PA=AC=2,BC=1, AB=\sqrt{3}.è‹¥ADâŠ¥DC,ä¸”äºŒé¢è§’A-CP-Dçš„æ­£å¼¦å€¼ä¸º\frac{\sqrt{42}}{7},æ±‚AD.",
             "image": 
             [
                 "/img/2024_Math_I_17.png"
@@ -19,7 +19,7 @@
             "answer": "\sqrt{3}"
         },
         {
-            "question": "ÔÚÏÂÃæµÄ4*4·½¸ñ±íÖÐÓÐ4¸ö·½¸ñ,ÒªÇóÃ¿ÐÐºÍÃ¿ÁÐ¾ùÇ¡ºÃÓÐÒ»¸ö·½¸ñ±»Ñ¡ÖÐ,Ôò¹²ÓÐ¼¸ÖÖÑ¡·¨?ÔÚ·ûºÏÉÏÊöÒªÇóµÄÑ¡·¨ÖÐ,Ñ¡ÖÐ·½¸ñÖÐµÄËÄ¸öÊýÖ®ºÍµÄ×î´óÖµÊÇ()",
+            "question": "åœ¨ä¸‹é¢çš„4*4æ–¹æ ¼è¡¨ä¸­æœ‰4ä¸ªæ–¹æ ¼,è¦æ±‚æ¯è¡Œå’Œæ¯åˆ—å‡æ°å¥½æœ‰ä¸€ä¸ªæ–¹æ ¼è¢«é€‰ä¸­,åˆ™å…±æœ‰å‡ ç§é€‰æ³•?åœ¨ç¬¦åˆä¸Šè¿°è¦æ±‚çš„é€‰æ³•ä¸­,é€‰ä¸­æ–¹æ ¼ä¸­çš„å››ä¸ªæ•°ä¹‹å’Œçš„æœ€å¤§å€¼æ˜¯()",
             "image": 
             [
                 "/img/2024_Math_II_14.png"
@@ -27,7 +27,7 @@
             "answer": "24;112"
         },
         {
-            "question": "ÈçÍ¼,Æ½ÃæËÄ±ßÐÎABCDÖÐ,AB=8,CD=3,AD=5*\sqrt{3},¡ÏADC=90¡ã,¡ÏBAD=30¡ã,µãE¡¢FÂú×ã\overrightarrow{AE}=7*\overrightarrow{AD}/5,\overrightarrow{AF}=\overrightarrow{AB}/2,½«¡øAEFÑØEF¶ÔÕÛÖÁ¡øPEF,Ê¹µÃPC=4*\sqrt{3},ÇóÃæPCDÓëÃæPBFËù³ÉµÄ¶þÃæ½ÇµÄÕýÏÒÖµ.",
+            "question": "å¦‚å›¾,å¹³é¢å››è¾¹å½¢ABCDä¸­,AB=8,CD=3,AD=5*\sqrt{3},âˆ ADC=90Â°,âˆ BAD=30Â°,ç‚¹Eã€Fæ»¡è¶³\overrightarrow{AE}=7*\overrightarrow{AD}/5,\overrightarrow{AF}=\overrightarrow{AB}/2,å°†â–²AEFæ²¿EFå¯¹æŠ˜è‡³â–²PEF,ä½¿å¾—PC=4*\sqrt{3},æ±‚é¢PCDä¸Žé¢PBFæ‰€æˆçš„äºŒé¢è§’çš„æ­£å¼¦å€¼.",
             "image": 
             [
                 "/img/2024_Math_II_17.png"

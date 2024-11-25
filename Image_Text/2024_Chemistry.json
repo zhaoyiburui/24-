@@ -3,7 +3,7 @@
     "example": 
     [
         {
-            "question": "�ҹ���ѧ�����߿�����һ�ֻ������þ�����(PLA)�߷��Ӳ��ϵķ���,��ת��·����ͼ1��ʾ.���������������:A.PLA�ڼ��������¿ɷ������ⷴӦ;B.MP�Ļ�ѧ�����Ǳ������;C.MP��ͬ���칹���к��Ȼ�����3��;D.MMA�ɼӾ�������ͼ2��ʾ�߷���",
+            "question": "我国化学工作者开发了一种回收利用聚乳酸(PLA)高分子材料的方法,其转化路线如图1所示.下列叙述错误的是:A.PLA在碱性条件下可发生降解反应;B.MP的化学名称是丙酸甲酯;C.MP的同分异构体中含羧基的有3种;D.MMA可加聚生成如图2所示高分子",
             "image": 
             [
                 "/img/2024_Chemistry_jia_3_1.png",
@@ -12,7 +12,7 @@
             "answer": "C"
         },
         {
-            "question": "��ƿ��ɫ��ҺNH_{4}NO_{3},Na_{2}CO_{3},Ba(OH)_{2},AlCl_{3},����֮��ķ�Ӧ��ϵ��ͼ��ʾ.����a��b��c��d����������Һ,e��gΪ��ɫ����,fΪ��ɫ����.����������ȷ����:A.a��������;B.f�����ڹ�����b��;C.c��ͨ�������e�ɵõ���ɫ��Һ;D.b��d��Ӧ���ɵĳ���������ϡ����.",
+            "question": "四瓶无色溶液NH_{4}NO_{3},Na_{2}CO_{3},Ba(OH)_{2},AlCl_{3},它们之间的反应关系如图所示.其中a、b、c、d代表四种溶液,e和g为无色气体,f为白色沉淀.下列叙述正确的是:A.a呈弱碱性;B.f可溶于过量的b中;C.c中通入过量的e可得到无色溶液;D.b和d反应生成的沉淀不溶于稀硝酸.",
             "image": 
             [
                 "/img/2024_Chemistry_jia_4.png"
@@ -20,7 +20,7 @@
             "answer": "B"
         },
         {
-            "question": "��ѧ��ʹ��\delta-MnO_{2}������һ��MnO_{2}-Zn�ɳ����(��ͼ��ʾ).��ع���һ��ʱ���,MnO2�缫�ϼ�⵽MnOOH������ZnMn_{2}O_{4}.����������ȷ����:A.���ʱ,Zn^{2+}����������Ǩ��B.���ʱ,�ᷢ����ӦZn+2MnO_{2}=ZnMn_{2}O_{4};C.�ŵ�ʱ,������Ӧ��MnO_{2}+H_{2}O+e^{-}=MnOOH+OH^{-};D.�ŵ�ʱ,Zn�缫��������0.65g,MnO2�缫������0.020mol MnOOH ",
+            "question": "科学家使用\delta-MnO_{2}研制了一种MnO_{2}-Zn可充电电池(如图所示).电池工作一段时间后,MnO2电极上检测到MnOOH和少量ZnMn_{2}O_{4}.下列叙述正确的是:A.充电时,Zn^{2+}向阳极方向迁移B.充电时,会发生反应Zn+2MnO_{2}=ZnMn_{2}O_{4};C.放电时,正极反应有MnO_{2}+H_{2}O+e^{-}=MnOOH+OH^{-};D.放电时,Zn电极质量减少0.65g,MnO2电极生成了0.020mol MnOOH ",
             "image": 
             [
                 "/img/2024_Chemistry_jia_6.png"
@@ -28,7 +28,7 @@
             "answer": "C"
         },
         {
-            "question": "��0.01mmol Ag_{2}CrO_{4}���Ƴ�1.0mL����Һ,�����еμ�0.10mol/L��NaCl��Һ.lg[c_{M}/(mol/L)](M����Ag^{+}��Cl^{-}��CrO_{4}^{2-})�������Һ���(V)�ı仯��ϵ��ͼ��ʾ������������ȷ����:A.����a��:c(Na^{+})=2c(Cl^{-}) B.K_{sp}(AgCl)/K_{sp}(Ag_{2}CrO_{4})=10^{-2.21} C.V<=2.0mlʱ,c(CrO_{4}^{2-})/c(Cl^{-})���� D.y_{1}=-7.82,y_{2}=-\lg_{3}4",
+            "question": "将0.01mmol Ag_{2}CrO_{4}配制成1.0mL悬浊液,向其中滴加0.10mol/L的NaCl溶液.lg[c_{M}/(mol/L)](M代表Ag^{+}、Cl^{-}或CrO_{4}^{2-})随加入溶液体积(V)的变化关系如图所示。下列叙述正确的是:A.交点a处:c(Na^{+})=2c(Cl^{-}) B.K_{sp}(AgCl)/K_{sp}(Ag_{2}CrO_{4})=10^{-2.21} C.V<=2.0ml时,c(CrO_{4}^{2-})/c(Cl^{-})不变 D.y_{1}=-7.82,y_{2}=-\lg_{3}4",
             "image": 
             [
                 "/img/2024_Chemistry_jia_7.png"
@@ -36,7 +36,7 @@
             "answer": "D"
         },
         {
-            "question": "һ�ֵ����ѧ�����ϳɾ�������(W)��·����ͼ1��ʾ,����˵����ȷ����:A.˫��A�Ǳ��ӵ�ͬϵ��,�����ȩ�����ۺϷ�Ӧ B.ͼ2�߻��ۺ�Ҳ��������W C.����W�ķ�Ӧ3Ϊ���۷�Ӧ,ͬʱ����ͼ3 D.����������,W�Ⱦ۱���ϩ���ѽ���",
+            "question": "一种点击化学方法合成聚硫酸酯(W)的路线如图1所示,下列说法正确的是:A.双酚A是苯酚的同系物,可与甲醛发生聚合反应 B.图2催化聚合也可以生成W C.生成W的反应3为缩聚反应,同时生成图3 D.碱性条件下,W比聚苯乙烯更难降解",
             "image": 
             [
                 "/img/2024_Chemistry_I_2_1.png",
@@ -46,7 +46,7 @@
             "answer": "B"
         },
         {
-            "question": "ʵ������������ͼװ����֤����ˮ������Ӧ.����˵���������:A.��ӦΪ3Fe+4H_{2}O(g)=(����)Fe_{3}O_{4}+4H_{2} B.�ƾ�������ʪ�޻��·�ʵ��Ч������ C.��ľ���ȼ�����ݼ������ɵ����� D.ʹ��Ӳ�ʲ����Թ�ʢװ��ԭ����",
+            "question": "实验室中利用下图装置验证铁与水蒸气反应.下列说法错误的是:A.反应为3Fe+4H_{2}O(g)=(高温)Fe_{3}O_{4}+4H_{2} B.酒精灯移至湿棉花下方实验效果更好 C.用木柴点燃肥皂泡检验生成的氢气 D.使用硬质玻璃试管盛装还原铁粉",
             "image": 
             [
                 "/img/2024_Chemistry_I_3.png"
@@ -54,7 +54,7 @@
             "answer": "B"
         },
         {
-            "question": "һ�ֿ�ֲ�����ڵ�΢�͵�ع���ԭ����ͼ��ʾ,ͨ��CuO�߻�����Ѫ�Ƿ���,�Ӷ�����Ѫ��Ũ��.����������⵽Ѫ��Ũ�ȸ��ڱ�׼,�������.Ѫ��Ũ���½�����׼,���ֹͣ����.(Ѫ��Ũ����������Ũ�ȼ�)��ع���ʱ�����������������:A.����ܷ�ӦΪ2C_{6}H_{12}O_{6}+O_{2}=2C_{6}H_{12}O_{7} B.b�缫��CuOͨ��Cu(II)��Cu(I)�໥ת����߻����� C.����18mg������,������a�缫��0.4mmol�������� D.���缫��ѪҺ�е�Na_{+}�ڵ糡�����µ�Ǩ�Ʒ���Ϊb��a",
+            "question": "一种可植入体内的微型电池工作原理如图所示,通过CuO催化消耗血糖发电,从而控制血糖浓度.当传感器检测到血糖浓度高于标准,电池启动.血糖浓度下降至标准,电池停止工作.(血糖浓度以葡萄糖浓度计)电池工作时，下列叙述错误的是:A.电池总反应为2C_{6}H_{12}O_{6}+O_{2}=2C_{6}H_{12}O_{7} B.b电极上CuO通过Cu(II)和Cu(I)相互转变起催化作用 C.消耗18mg葡萄糖,理论上a电极有0.4mmol电子流入 D.两电极间血液中的Na_{+}在电场驱动下的迁移方向为b→a",
             "image": 
             [
                 "/img/2024_Chemistry_I_6.png"
@@ -62,7 +62,7 @@
             "answer": "C"
         },
         {
-            "question": "������CH_{2}ClCOOH��CHCl2COOH��������Һ��,�ֲ�ϵ������pH�ı仯��ϵ��ͼ��ʾ.[����:��(CH_{2}ClCOO^{-})=c(CH_{2}ClCOO^{-}/c(CH_{2}ClCOOH)+c(CH_{2}ClCOO^{-})],����������ȷ����: A.����M��ʾ��(CH_{2}ClCOO^{-})~pH�ı仯��ϵ B.����ĳ�ʼŨ��Ϊ0.10mol/L,��a���Ӧ����Һ����c(H^{+})=c(CHCl_{2}COO^{-})+c(OH^{-}) C.CH_{2}ClCOOH�ĵ��볣��K_{a}=10^{-1.3} D.pH=2.08ʱ,����Ȧ�(CH_{2}ClCOOH)/����Ȧ�(CHCl_{2}COOH)=0.15/0.85",
+            "question": "常温下CH_{2}ClCOOH和CHCl2COOH的两种溶液中,分布系数δ与pH的变化关系如图所示.[比如:δ(CH_{2}ClCOO^{-})=c(CH_{2}ClCOO^{-}/c(CH_{2}ClCOOH)+c(CH_{2}ClCOO^{-})],下列叙述正确的是: A.曲线M表示δ(CH_{2}ClCOO^{-})~pH的变化关系 B.若酸的初始浓度为0.10mol/L,则a点对应的溶液中有c(H^{+})=c(CHCl_{2}COO^{-})+c(OH^{-}) C.CH_{2}ClCOOH的电离常数K_{a}=10^{-1.3} D.pH=2.08时,电离度α(CH_{2}ClCOOH)/电离度α(CHCl_{2}COOH)=0.15/0.85",
             "image": 
             [
                 "/img/2024_Chemistry_I_7.png"
